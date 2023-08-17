@@ -16,20 +16,23 @@
 <a href="https://www.python.org/">
   <img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 </a>
-<a href="https://www.streamlit.io/">
-  <img align="left" alt="Streamlit" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/streamlit.svg" />
-</a>
 <a href="https://jupyter.org/">
   <img align="left" alt="Jupyter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
 </a>
 <a href="https://pandas.pydata.org/">
   <img align="left" alt="Pandas" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 </a>
+<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019">
+  <img align="left" alt="Microsoft SQL Server" width="18px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" />
+</a>
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="VSCode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 </a>
 <a href="https://www.jetbrains.com/pycharm/">
   <img align="left" alt="PyCharm" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
+</a>
+<a href="https://www.streamlit.io/">
+  <img align="left" alt="Streamlit" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/streamlit.svg" />
 </a>
 
 #### &nbsp;
