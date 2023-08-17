@@ -49,6 +49,19 @@
   <img align="left" alt="Streamlit" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/streamlit.svg" />
 </a>
 
+
+<img align="left" alt="HTML" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="CSS" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<a href="https://www.adobe.com/products/photoshop.html">
+  <img align="left" alt="Photoshop" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+</a>
+<a href="https://www.adobe.com/products/premiere.html">
+  <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/">
+  <img align="left" alt="GnuBash" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />
+</a>
 #### &nbsp;
 
 <!--
