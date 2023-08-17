@@ -9,7 +9,9 @@
 
 🔍📊📈 #DataScience #Python #Analytics #BI #TechEnthusiast
 #### &nbsp;
+
 <hr class="hr-line">
+
 ### Tech stack
 
 **Main - Python / Data Analytics**
