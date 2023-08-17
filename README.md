@@ -27,6 +27,10 @@
   <img align="left" alt="MicrosoftSQLServer" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" />
 </a>
 
+<a href="https://www.microsoft.com/ru-ru/microsoft-365/excel">
+  <img align="left" alt="MicrosoftExcel" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" />
+</a>
+
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="VSCode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 </a>
