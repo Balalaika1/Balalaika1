@@ -18,12 +18,6 @@
 <a href="https://pandas.pydata.org/">
   <img align="left" alt="Pandas" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 </a>
-<a href="https://spark.apache.org/">
-  <img align="left" alt="Spark" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />
-</a>
-<a href="https://www.docker.com/">
-  <img align="left" alt="Docker" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-</a>
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="VSCode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 </a>
