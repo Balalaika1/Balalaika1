@@ -10,7 +10,6 @@
 #### &nbsp;
 
 ### Tech stack
-#### &nbsp;
 
 **Main - Python / Data Analytics**
 
