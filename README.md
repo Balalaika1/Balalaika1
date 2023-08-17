@@ -48,7 +48,6 @@
 </a>
 
 #### &nbsp;
-#### &nbsp;
 
 **Secondary - Web development / Audio & Video Production / Presentation design**
 
