@@ -31,7 +31,7 @@
 <a href="https://www.jetbrains.com/pycharm/">
   <img align="left" alt="PyCharm" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
 </a>
-
+#### &nbsp;
 
 
 Here are some ideas to get you started:
