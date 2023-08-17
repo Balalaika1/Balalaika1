@@ -1,7 +1,6 @@
 ### Hello, Quantum Dreamer! 👋
 <hr class="hr-line">
 
-</style>
 #### &nbsp;
 
 ### About me
