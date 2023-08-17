@@ -1,4 +1,15 @@
-### Hello, Quantum Dreamer! 👋 :wave:
+### Hello, Quantum Dreamer! 👋
+<hr class="hr-line">
+ 
+<style>
+.hr-line {
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid #333;
+}
+</style>
 #### &nbsp;
 
 ### About me
