@@ -35,6 +35,10 @@
   <img align="left" alt="PowerBI" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg" />
 </a>
 
+<a href="https://www.microsoft.com/microsoft-365/powerpoint">
+  <img align="left" alt="PowerPoint" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftpowerpoint.svg" />
+</a>
+
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="VSCode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 </a>
