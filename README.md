@@ -1,4 +1,4 @@
-### Hello, Quantum Dreamer! 👋
+### Hello, Quantum Dreamer! 👋 :wave:
 #### &nbsp;
 
 ### About me
