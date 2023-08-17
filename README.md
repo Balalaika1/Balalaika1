@@ -1,6 +1,13 @@
 ### Hi there 👋
 #### &nbsp;
 
+### About me
+🔍 Exploring the Data Universe 🌌 | 📊 Data Analyst | 🐍 Python Enthusiast | 🧮 Analytics Wizard | 🛠️ BI Magician
+
+🔬 Always diving into the depths of technology and uncovering hidden insights. From data to pixels, transforming raw information into stories. Let's code the future! 🚀
+
+🔍📊📈 #DataScience #Python #Analytics #BI #TechEnthusiast
+#### &nbsp;
 
 ### Tech stack
 
