@@ -23,12 +23,16 @@
   <img align="left" alt="Pandas" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 </a>
 
-<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019">
+<a href="https://www.microsoft.com/sql-server/sql-server-2019">
   <img align="left" alt="MicrosoftSQLServer" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" />
 </a>
 
-<a href="https://www.microsoft.com/ru-ru/microsoft-365/excel">
+<a href="https://www.microsoft.com/microsoft-365/excel">
   <img align="left" alt="MicrosoftExcel" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" />
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+  <img align="left" alt="PowerBI" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg" />
 </a>
 
 <a href="https://code.visualstudio.com/">
