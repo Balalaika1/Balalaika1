@@ -1,7 +1,6 @@
 ### Hello, Quantum Dreamer! 👋
 <hr class="hr-line">
 
-#### &nbsp;
 
 ### About me
 🔍 Exploring the Data Universe 🌌 | 📊 Data Analyst | 🐍 Python Enthusiast | 🧮 Analytics Wizard | 🛠️ BI Magician
@@ -10,7 +9,7 @@
 
 🔍📊📈 #DataScience #Python #Analytics #BI #TechEnthusiast
 #### &nbsp;
-
+<hr class="hr-line">
 ### Tech stack
 
 **Main - Python / Data Analytics**
