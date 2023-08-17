@@ -22,9 +22,11 @@
 <a href="https://pandas.pydata.org/">
   <img align="left" alt="Pandas" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 </a>
+
 <a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019">
-  <img align="left" alt="Microsoft SQL Server" width="18px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" />
+  <img align="left" alt="MicrosoftSQLServer" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" />
 </a>
+
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="VSCode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 </a>
