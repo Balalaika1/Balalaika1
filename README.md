@@ -49,7 +49,9 @@
 #### &nbsp;
 
 **Secondary - Web development / Audio & Video Production / Presentation design**
+
 <img align="left" alt="HTML" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+
 <img align="left" alt="CSS" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 
 <a href="https://www.microsoft.com/microsoft-365/powerpoint">
