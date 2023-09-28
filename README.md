@@ -1,4 +1,4 @@
-### Hello, Quantum Dreamer! 👋
+### Hello 👋
 <hr class="hr-line">
 
 
