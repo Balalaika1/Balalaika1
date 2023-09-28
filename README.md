@@ -76,6 +76,8 @@
 
 ### Contact with me
 
+**Telegram**
+
 <a href="https://t.me/BalalaikaStar">
   <img align="left" alt="Illustrator" width="18px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-telegram-1.png" />
 </a>
