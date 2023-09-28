@@ -70,6 +70,14 @@
   <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
 </a>
 
+<hr class="hr-line">
+
+### Contact with me
+
+<a href="https://t.me/BalalaikaStar">
+  <img align="left" alt="Illustrator" width="18px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-telegram-1.png" />
+</a>
+
 #### &nbsp;
 
 <!--
