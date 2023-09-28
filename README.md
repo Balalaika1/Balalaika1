@@ -67,7 +67,7 @@
   <img align="left" alt="Photoshop" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 </a>
 <a href="https://www.adobe.com/products/premiere.html">
-  <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
+  <img align="left" alt="Illustrator" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
 </a>
 
 #### &nbsp;
