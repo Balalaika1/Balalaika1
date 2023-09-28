@@ -79,7 +79,7 @@
 <a href="https://t.me/BalalaikaStar">
   <img align="left" alt="Illustrator" width="18px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-telegram-1.png" />
 </a>
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Ft.me%2FBalalaikaStar&2&0" width="24px" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Ft.me%2FBalalaikaStar&2&0" width="34px" border="0" title="QR код"></a>
 
 #### &nbsp;
 
